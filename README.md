@@ -4,4 +4,4 @@
 3. Live face and eye detection using HaarcascadeClassifier
 4. Car detection in video
 5. Pedistrain detection in video/image
-6. live came face detection with feed
+6. live camera face detection with feed
